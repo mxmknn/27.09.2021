@@ -7,14 +7,14 @@
                    <li>Земпя
                        <ol type=1>
                        <li>луна
-                       </ol>
+                      
                </ue>
                <ue type=disk>
                    <li>Марс
                        <ol type=1>
                        <li>Фобос
                        <li>Деймос
-                       </ol>
+                       
                </ue>
                <ue type=disk>
                    <li>Уран
@@ -24,7 +24,7 @@
                        <li>Титания
                        <li>Оберон
                        <li>Миранда
-                       </ol>
+                       
                  
                 </ue>
                 <ue type=disk>
@@ -32,7 +32,4 @@
                        <ol type=1>
                        <li>Тритон
                        <li>Нереидa
-                     </ol>
-                </ue>
-    </body>
-    </html>
+                   
