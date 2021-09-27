@@ -6,28 +6,32 @@
                <ue type=disk>
                    <li>Земпя
                        <ol type=1>
-                       <ol>луна
+                       <li>луна
+                       </ol>
                </ue>
                <ue type=disk>
                    <li>Марс
                        <ol type=1>
-                       <ol>Фобос
-                       <ol>Деймос
+                       <li>Фобос
+                       <li>Деймос
+                       </ol>
                </ue>
                <ue type=disk>
                    <li>Уран
                        <ol type=1>
-                       <ol>Ариель
-                       <ol>Умбриель
-                       <ol>Титания
-                       <ol>Оберон
-                       <ol>Миранда
+                       <li>Ариель
+                       <li>Умбриель
+                       <li>Титания
+                       <li>Оберон
+                       <li>Миранда
+                       </ol>
+                 
                 </ue>
                 <ue type=disk>
                    <li>Нептун
                        <ol type=1>
-                       <ol>Тритон
-                       <ol>Нереида
-               </ue>
-        </body>
-</html>
+                       <li>Тритон
+                       <li>Нереидa
+                           
+                           </ol>
+                </ue>
